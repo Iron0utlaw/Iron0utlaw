@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Varshney</h1>
 <h3 align="center">A passionate frontend developer and competitive programming enthusiast from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952yeb39t6tq2rw91q1joha34wtnuxciet9it3zisfx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iron0utlaw&label=Profile%20views&color=0e75b6&style=flat" alt="iron0utlaw" /> </p>
 
 - 🔭 I’m currently working on [NSUTthon 2024](https://github.com/Iron0utlaw/NSUTthon24)
